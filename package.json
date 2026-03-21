@@ -1,0 +1,17 @@
+{
+  "name": "nexa-md",
+  "version": "1.0.0",
+  "description": "Nexa-md — small WhatsApp bot, 50 plugins",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "pino": "^9.3.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
